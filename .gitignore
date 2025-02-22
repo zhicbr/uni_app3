@@ -1,0 +1,31 @@
+# 忽略编译生成的文件和文件夹
+/dist/
+/unpackage/
+
+# 忽略日志文件
+*.log
+
+# 忽略编辑器临时文件
+.*.swp
+*.swo
+.DS_Store
+
+# 忽略 node_modules 文件夹
+node_modules/
+
+# 忽略本地环境配置文件
+.env.local
+
+# 忽略 IDE 配置文件
+.vscode/
+.idea/
+
+# 忽略系统临时文件
+Thumbs.db
+
+# 忽略打包缓存文件
+.npm/
+.hbuilderx/
+
+# 忽略运行时生成的临时文件
+*.tmp

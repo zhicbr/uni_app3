@@ -14,4 +14,11 @@
 
 <style>
 	/*每个页面公共css */
+	.uni-tabbar {
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		z-index: 999;
+	}
 </style>
